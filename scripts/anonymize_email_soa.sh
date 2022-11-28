@@ -1,0 +1,1 @@
+python run_anonymization.py --data=email-temp --sattr=dept --strategy=mean --n_sg=20 --enforcer=gs --max_dist_list=1 --k_list=2,4,6,8,10 --l_list=2,3,4,5,6 --calgo_list=km --galgo=ad2 --anony_mode=all --run_mode=all --workers=20

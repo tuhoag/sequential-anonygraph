@@ -1,0 +1,4 @@
+data,sample,strategy,n_sg,anony_mode,info_loss,alpha_adm,alpha_dm,k,w,calgo,max_dist,t,algo,galgo,adm,dm,am,num_anonymized_fake_entities,num_anonymized_real_entities,num_real_edges,num_raw_entities,num_anonymized_entities,num_raw_edges,num_anonymized_edges,anonymized_anonymity,anonymized_attribute_anonymity,anonymized_degree_anonymity
+ddummy,-1,equaladd,3,all,adm,0.5,0.5,2,1,km,1.0,0,SCKGA,ad,0.05527210884353741,-0.02040816326530612,0.13095238095238093,0,7,9,7,7,18,26,2,2,2
+ddummy,-1,equaladd,3,all,adm,0.5,0.5,2,1,km,1.0,1,SCKGA,ad,0.09635416666666666,0.046875,0.14583333333333331,0,8,11,8,8,21,32,2,2,2
+ddummy,-1,equaladd,3,all,adm,0.5,0.5,2,1,km,1.0,2,SCKGA,ad,0.050520833333333334,0.015625,0.08541666666666667,0,8,7,8,8,21,28,2,2,2

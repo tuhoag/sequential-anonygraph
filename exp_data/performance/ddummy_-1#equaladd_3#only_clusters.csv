@@ -1,0 +1,13 @@
+Unnamed: 0,t,clustering,gen_history,data,sample,strategy,n_sg,anony_mode,info_loss,alpha_adm,alpha_dm,k,w,calgo,max_dist
+0,0,3.0994415283203125e-06,1.6597020626068115,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,1,km,1.0
+1,1,4.76837158203125e-06,1.4791581630706787,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,1,km,1.0
+2,2,5.0067901611328125e-06,1.2737579345703125,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,1,km,1.0
+0,0,3.0994415283203125e-06,1.65197491645813,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,2,km,1.0
+1,1,4.0531158447265625e-06,1.475933313369751,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,2,km,1.0
+2,2,4.0531158447265625e-06,1.269747257232666,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,2,2,km,1.0
+0,0,3.0994415283203125e-06,1.313499927520752,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,1,km,1.0
+1,1,4.0531158447265625e-06,1.369006872177124,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,1,km,1.0
+2,2,2.1457672119140625e-06,1.298112869262695,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,1,km,1.0
+0,0,3.0994415283203125e-06,1.3095598220825195,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,2,km,1.0
+1,1,3.0994415283203125e-06,1.394237995147705,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,2,km,1.0
+2,2,3.0994415283203125e-06,1.3067638874053955,ddummy,-1,equaladd,3,only_clusters,adm,0.5,0.5,4,2,km,1.0

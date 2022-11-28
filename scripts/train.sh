@@ -1,0 +1,1 @@
+python train.py --data=yago15 --strategy=mean --n_sg=20 --k_list=2,4,6,8,10 --l_list=1 --reset_w_list=-1 --max_dist_list=1 --calgo_list=km --enforcer=gs --galgo=ad2 --anony_mode=all --d_list=200,500 --log=i --update=n

@@ -1,0 +1,3 @@
+python run_anonymization.py --data=email-temp --strategy=mean --n_sg=20 --sattr=dept --calgo=km --galgo=ad2 --enforcer=msa --k_list=2,4,6,8,10 --w_list=-1 --l_list=1,2,3 --max_dist_list=0,0.25,0.5,0.75,1 --anony_mode=only_clusters --log=i --log_modes=con,file --reset_w_list=-1,1,2,5 --workers=15
+
+python visualize_clusters_quality.py --data=email-temp --strategy=mean --n_sg=20 --sattr=dept --anony_mode=only_clusters --workers=10 --log=i --refresh=y --workers=15

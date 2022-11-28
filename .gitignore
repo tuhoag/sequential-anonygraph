@@ -1,0 +1,7 @@
+/data
+*.pyc
+.vscode
+.DS_Store
+log.txt
+/node_modules
+package-lock.json
