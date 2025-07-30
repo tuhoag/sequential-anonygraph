@@ -1,5 +1,9 @@
-# Time-Aware Publishing of Knowledge Graphs and Privacy-Preserving Sequential Publishing of Knowledge Graphs
-This repository contains the source code of the paper [Time-Aware Anonymization of Knowledge Graphs](https://dl.acm.org/doi/10.1145/3563694) and [Privacy-Preserving Sequential Publishing of Knowledge Graphs](https://ieeexplore.ieee.org/document/9458620). The papers creates a privacy-preserving technology for sequential publishing of knowledge graphs. The technology protects users from identity and attribute leakage even when attackers exploit all published versions of a knowledge graph.
+# Readme
+This repository contains the source code of two papers:
+- [Time-Aware Anonymization of Knowledge Graphs](https://dl.acm.org/doi/10.1145/3563694);
+- [Privacy-Preserving Sequential Publishing of Knowledge Graphs](https://ieeexplore.ieee.org/document/9458620).
+
+The papers creates privacy-preserving technologies for sequential publishing of knowledge graphs. The technology protects users from identity and attribute leakage even when attackers exploit all published versions of a knowledge graph.
 
 ## Installation
 This repository requires the following program to be installed:
