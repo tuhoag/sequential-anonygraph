@@ -1,5 +1,5 @@
-# Time-Aware Publishing of Knowledge Graphs
-This repository contains the source code of the paper [Time-Aware Anonymization of Knowledge Graphs](https://dl.acm.org/doi/10.1145/3563694). The paper creates a privacy-preserving technology for sequential publishing of knowledge graphs. The technology protects users from identity and attribute leakage even when attackers exploit all published versions of a knowledge graph.
+# Time-Aware Publishing of Knowledge Graphs and Privacy-Preserving Sequential Publishing of Knowledge Graphs
+This repository contains the source code of the paper [Time-Aware Anonymization of Knowledge Graphs](https://dl.acm.org/doi/10.1145/3563694) and [Privacy-Preserving Sequential Publishing of Knowledge Graphs](https://ieeexplore.ieee.org/document/9458620). The papers creates a privacy-preserving technology for sequential publishing of knowledge graphs. The technology protects users from identity and attribute leakage even when attackers exploit all published versions of a knowledge graph.
 
 ## Installation
 This repository requires the following program to be installed:
@@ -82,18 +82,28 @@ Then, you can visualize the classification accuracy with the command:
 <code>python visualize_training_data.py --data=email-temp --strategy=mean --n_sg=2</code>
 
 ## Contact
-If you are interested in the repository and want to discuss, feel free to contact me at [contact@tuhoang.me](mailto:contact@tuhoang.me). If you use this repository in your project, please cite our paper.
+If you are interested in the repository and want to discuss, feel free to contact me at [contact@tuhoang.me](mailto:contact@tuhoang.me). If you use this repository in your project, please cite our papers.
 
 <pre><code>@article{10.1145/3563694,
-author = {Hoang, Anh-Tu and Carminati, Barbara and Ferrari, Elena},
-title = {Time-Aware Anonymization of Knowledge Graphs},
-year = {2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {2471-2566},
-url = {https://doi.org/10.1145/3563694},
-doi = {10.1145/3563694},
-journal = {ACM Transactions on Privacy and Security},
-month = {sep},
-keywords = {Knowledge Graphs, Anonymization, Privacy}
-}</code></pre>
+  author = {Hoang, Anh-Tu and Carminati, Barbara and Ferrari, Elena},
+  title = {Time-Aware Anonymization of Knowledge Graphs},
+  year = {2022},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {2471-2566},
+  url = {https://doi.org/10.1145/3563694},
+  doi = {10.1145/3563694},
+  journal = {ACM Transactions on Privacy and Security},
+}
+  
+@INPROCEEDINGS{9458620,
+  author={Hoang, Anh-Tu and Carminati, Barbara and Ferrari, Elena},
+  booktitle={2021 IEEE 37th International Conference on Data Engineering (ICDE)}, 
+  title={Privacy-Preserving Sequential Publishing of Knowledge Graphs}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={2021-2026},
+  doi={10.1109/ICDE51399.2021.00194}
+}
+</code></pre>
